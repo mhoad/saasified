@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Saasified::VERSION
   s.authors     = ["Mark Hoad"]
   s.email       = ["markdhoad@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Saasified."
-  s.description = "TODO: Description of Saasified."
+  s.homepage    = "https://github.com/mhoad/saasified"
+  s.summary     = "Rails Engine to provide multitenancy functionality"
+  s.description = "Based (in part) on the book Multitenancy with Rails"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
